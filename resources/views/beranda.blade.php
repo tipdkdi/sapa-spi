@@ -1360,10 +1360,10 @@
             return {
 
                 stats: {
-                    total: 128,
-                    process: 18,
-                    verification: 24,
-                    completed: 86
+                    total: 0,
+                    process: 0,
+                    verification: 0,
+                    completed: 0
                 },
 
                 faqs: [
